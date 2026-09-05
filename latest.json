@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.5",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.5",
-  "notes": "The GitHub token can now be set before an update is waiting, so Download and Install are ready when one arrives. Paste a fine-grained token with Contents: Read in Settings -> Router; it is stored on this computer only, encrypted, and never sent to the cloud computer.",
+  "version": "v0.18.0-vunqai.6",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.6",
+  "notes": "The microphone button next to the composer now works. It went to Cursor's backend, which this build has no entitlement for, so it could never have worked here; dictation is now served through your OpenRouter key. Pick a model first in Settings -> Router under Transcription model: nothing is chosen by default, so dictation stays off until you choose one. Spoken replies are not included, because Grok Bot has no text-to-speech to match.",
   "asset": {
-    "id": 546294020,
+    "id": 546340442,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119518982,
-    "sha256": "fb4d98f5a68a3abc5d507255e9bf0ccf06e8397fc3bfa3e89e3ed6767be330f7"
+    "size": 119521658,
+    "sha256": "229a4078190afa25effb5b1ed81f61e504e350483a874c6b5fb1b334477bc685"
   }
 }
