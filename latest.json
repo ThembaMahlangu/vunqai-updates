@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.6",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.6",
-  "notes": "The microphone button next to the composer now works. It went to Cursor's backend, which this build has no entitlement for, so it could never have worked here; dictation is now served through your OpenRouter key. Pick a model first in Settings -> Router under Transcription model: nothing is chosen by default, so dictation stays off until you choose one. Spoken replies are not included, because Grok Bot has no text-to-speech to match.",
+  "version": "v0.18.0-vunqai.7",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.7",
+  "notes": "Fixes dictation, which was broken in 0.18.0-vunqai.6. The transcription endpoint takes an ISO-639-1 language code and the app was sending a full locale, so every attempt was rejected with a 400. Pick a model in Settings -> Router under Transcription model; nothing is chosen by default, so dictation stays off until you choose one.",
   "asset": {
-    "id": 546340442,
+    "id": 546352901,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119521658,
-    "sha256": "229a4078190afa25effb5b1ed81f61e504e350483a874c6b5fb1b334477bc685"
+    "size": 119500340,
+    "sha256": "52fe50ca85063c7f61599b6a2d6d8daeb7f9abef8c53dae55c6fcb8ccb001c3c"
   }
 }
