@@ -1,0 +1,5 @@
+{
+  "version": "v0.18.0-vunqai.1",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.1",
+  "notes": "Routed image generation, a searchable model picker, and an update check that reports rather than installs."
+}
