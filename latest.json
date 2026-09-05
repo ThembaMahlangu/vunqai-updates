@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.4",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.4",
-  "notes": "Adds Download and Install to the Updates tab. Paste a GitHub fine-grained token with Contents: Read once in Settings -> Router, and Vunqai fetches the installer itself, resumes if the connection drops, checks it against the digest the release published, and offers Install. The token is stored on this computer only, encrypted, and is never sent to the cloud computer. Nothing installs itself: every step is a button you press.",
+  "version": "v0.18.0-vunqai.5",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.5",
+  "notes": "The GitHub token can now be set before an update is waiting, so Download and Install are ready when one arrives. Paste a fine-grained token with Contents: Read in Settings -> Router; it is stored on this computer only, encrypted, and never sent to the cloud computer.",
   "asset": {
-    "id": 546283910,
+    "id": 546294020,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119531551,
-    "sha256": "767838229a53ecd563167fa36a317cef56e02c3382dd9827b4e710c710ddbb2e"
+    "size": 119518982,
+    "sha256": "fb4d98f5a68a3abc5d507255e9bf0ccf06e8397fc3bfa3e89e3ed6767be330f7"
   }
 }
