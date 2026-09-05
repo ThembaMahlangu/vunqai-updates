@@ -1,5 +1,5 @@
 {
-  "version": "v0.18.0-vunqai.2",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.2",
-  "notes": "Router tab opens again, searchable model list with image models, and an update check that reports rather than installs."
+  "version": "v0.18.0-vunqai.3",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.3",
+  "notes": "Fixes bots disappearing mid-conversation, and the message that became a new bot. The host runtime is now staged and renamed into place instead of being overwritten while it runs, so the box can no longer start a half-written build. Also: image generation now actually reaches the image model (it had never worked, and the bot quietly drew or downloaded pictures instead), the OpenRouter key is readable by the avatar generator, main-process errors are logged instead of showing a popup, and the Updates notes are laid out with the same inset as the card above them."
 }
