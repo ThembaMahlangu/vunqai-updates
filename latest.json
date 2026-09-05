@@ -1,5 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.3",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.3",
-  "notes": "Fixes bots disappearing mid-conversation, and the message that became a new bot. The host runtime is now staged and renamed into place instead of being overwritten while it runs, so the box can no longer start a half-written build. Also: image generation now actually reaches the image model (it had never worked, and the bot quietly drew or downloaded pictures instead), the OpenRouter key is readable by the avatar generator, main-process errors are logged instead of showing a popup, and the Updates notes are laid out with the same inset as the card above them."
+  "version": "v0.18.0-vunqai.4",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.4",
+  "notes": "Adds Download and Install to the Updates tab. Paste a GitHub fine-grained token with Contents: Read once in Settings -> Router, and Vunqai fetches the installer itself, resumes if the connection drops, checks it against the digest the release published, and offers Install. The token is stored on this computer only, encrypted, and is never sent to the cloud computer. Nothing installs itself: every step is a button you press.",
+  "asset": {
+    "id": 546283910,
+    "name": "Vunqai_0.18.0_Setup.exe",
+    "size": 119531551,
+    "sha256": "767838229a53ecd563167fa36a317cef56e02c3382dd9827b4e710c710ddbb2e"
+  }
 }
