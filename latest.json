@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.8",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.8",
-  "notes": "Fixes conversations going missing after the computer refreshes.",
+  "version": "v0.18.0-vunqai.9",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.9",
+  "notes": "Finishes what 0.18.0-vunqai.8 started.",
   "asset": {
-    "id": 547056574,
+    "id": 547085067,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119509274,
-    "sha256": "bd1f9cf091bea21a4f1f2aafcaf5c14b2fb3831d51c25587d0b62bf95cc7ef75"
+    "size": 119508316,
+    "sha256": "33703b5dc919485af10875dc8d4a58fcffe6438ddb061f0b1f9287e05f96cf8b"
   }
 }
