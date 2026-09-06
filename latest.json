@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.12",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.12",
-  "notes": "Two fixes found while connecting a real service.",
+  "version": "v0.18.0-vunqai.13",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.13",
+  "notes": "Fixes a crash that ended the turn when an image came back as webp.",
   "asset": {
-    "id": 547505102,
+    "id": 547542713,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119523996,
-    "sha256": "6812fb4e77553227a39cb38601e6d276050094e94be7afb8451731157befb079"
+    "size": 119507263,
+    "sha256": "1cb0324314a2906e5a85dfdf31302406492cbec7231eae194081c585f792215a"
   }
 }
