@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.10",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.10",
-  "notes": "Fixes adding an MCP server, which has never worked.",
+  "version": "v0.18.0-vunqai.11",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.11",
+  "notes": "Connectors whose provider needs a pre-registered OAuth client can now be added.",
   "asset": {
-    "id": 547320093,
+    "id": 547459125,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119513497,
-    "sha256": "88a3e34741d7a93358c878b3e416d8ce0eac62db8097e27941fc64b9906c84d4"
+    "size": 119524399,
+    "sha256": "b869ff04cacf3e6cf16d717ec1029ed67fb9f9ec529458ab76b495d769d05ba5"
   }
 }
