@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.9",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.9",
-  "notes": "Finishes what 0.18.0-vunqai.8 started.",
+  "version": "v0.18.0-vunqai.10",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.10",
+  "notes": "Fixes adding an MCP server, which has never worked.",
   "asset": {
-    "id": 547085067,
+    "id": 547320093,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119508316,
-    "sha256": "33703b5dc919485af10875dc8d4a58fcffe6438ddb061f0b1f9287e05f96cf8b"
+    "size": 119513497,
+    "sha256": "88a3e34741d7a93358c878b3e416d8ce0eac62db8097e27941fc64b9906c84d4"
   }
 }
