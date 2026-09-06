@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.7",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.7",
-  "notes": "Fixes dictation, which was broken in 0.18.0-vunqai.6. The transcription endpoint takes an ISO-639-1 language code and the app was sending a full locale, so every attempt was rejected with a 400. Pick a model in Settings -> Router under Transcription model; nothing is chosen by default, so dictation stays off until you choose one.",
+  "version": "v0.18.0-vunqai.8",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.8",
+  "notes": "Fixes conversations going missing after the computer refreshes.",
   "asset": {
-    "id": 546352901,
+    "id": 547056574,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119500340,
-    "sha256": "52fe50ca85063c7f61599b6a2d6d8daeb7f9abef8c53dae55c6fcb8ccb001c3c"
+    "size": 119509274,
+    "sha256": "bd1f9cf091bea21a4f1f2aafcaf5c14b2fb3831d51c25587d0b62bf95cc7ef75"
   }
 }
