@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.11",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.11",
-  "notes": "Connectors whose provider needs a pre-registered OAuth client can now be added.",
+  "version": "v0.18.0-vunqai.12",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.12",
+  "notes": "Two fixes found while connecting a real service.",
   "asset": {
-    "id": 547459125,
+    "id": 547505102,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119524399,
-    "sha256": "b869ff04cacf3e6cf16d717ec1029ed67fb9f9ec529458ab76b495d769d05ba5"
+    "size": 119523996,
+    "sha256": "6812fb4e77553227a39cb38601e6d276050094e94be7afb8451731157befb079"
   }
 }
