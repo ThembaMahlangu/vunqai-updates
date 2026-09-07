@@ -1,8 +1,9 @@
 {
   "version": "v0.18.0-vunqai.14",
   "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.14",
+  "notes": "Native Codex agent routing with model and effort controls; Codex or OpenRouter image generation; OpenRouter transcription; safer E2B backup and pause recovery; parent-controlled subagent cancellation; Claude Code removed.",
   "asset": {
-    "id": 549497222,
+    "id": 549499041,
     "name": "Vunqai_0.18.0_Setup.exe",
     "size": 119390052,
     "sha256": "f40df4d514649d02d8e97f0ce18ac6fbff1e3ef0f5070ac5a00d2987b7b75233"
