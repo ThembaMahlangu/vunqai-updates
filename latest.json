@@ -1,11 +1,10 @@
 {
-  "version": "v0.18.0-vunqai.13",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.13",
-  "notes": "Fixes a crash that ended the turn when an image came back as webp.",
+  "version": "v0.18.0-vunqai.14",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.14",
   "asset": {
-    "id": 547542713,
+    "id": 549497222,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119507263,
-    "sha256": "1cb0324314a2906e5a85dfdf31302406492cbec7231eae194081c585f792215a"
+    "size": 119390052,
+    "sha256": "f40df4d514649d02d8e97f0ce18ac6fbff1e3ef0f5070ac5a00d2987b7b75233"
   }
 }
