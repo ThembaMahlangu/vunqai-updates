@@ -1,11 +1,11 @@
 {
-  "version": "v0.18.0-vunqai.14",
-  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.14",
-  "notes": "Native Codex agent routing with model and effort controls; Codex or OpenRouter image generation; OpenRouter transcription; safer E2B backup and pause recovery; parent-controlled subagent cancellation; Claude Code removed.",
+  "version": "v0.18.0-vunqai.15",
+  "url": "https://github.com/ThembaMahlangu/vunqai/releases/tag/v0.18.0-vunqai.15",
+  "notes": "Fix Windows local-tools lifecycle and refresh E2B Codex credentials after account changes.",
   "asset": {
-    "id": 549499041,
+    "id": 552505965,
     "name": "Vunqai_0.18.0_Setup.exe",
-    "size": 119390052,
-    "sha256": "f40df4d514649d02d8e97f0ce18ac6fbff1e3ef0f5070ac5a00d2987b7b75233"
+    "size": 119393653,
+    "sha256": "432435ab4d96a083cf78d14e25e286b36fdc0f95fa33d4daaede2473f1d2ea5e"
   }
 }
